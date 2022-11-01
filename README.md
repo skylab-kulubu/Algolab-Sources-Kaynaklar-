@@ -44,6 +44,7 @@
 How to start Competitive Programming videos:
 https://www.youtube.com/watch?v=xAeiXy8-9Y8
 #### Problems website
-- https://codeforces.com/ ,
-- https://cses.fi/problemset/ ,
-- https://www.hackerrank.com/ ,
+- https://codeforces.com/
+- https://cses.fi/problemset/
+- https://www.hackerrank.com/
+- https://leetcode.com/
