@@ -2,6 +2,7 @@
 
 ## Books
 - https://cses.fi/book/book.pdf
+-https://books.goalkicker.com/CBook/CNotesForProfessionals.pdf
 
 ## Solving Problems
 
@@ -48,4 +49,12 @@ https://www.youtube.com/watch?v=xAeiXy8-9Y8
 - https://cses.fi/problemset/
 - https://www.hackerrank.com/
 - https://leetcode.com/
-- codeforwin.org/
+- https://codeforwin.org/
+- 
+## C for Beginners
+- https://www.youtube.com/watch?v=KJgsSFOSQv0
+- https://codeforwin.org/
+- https://www.youtube.com/watch?v=cYxpwHyPjT4&list=PLeBiefaYeU36bhvfFNQ69HjpP6OQhs1OC
+- https://www.w3schools.com/c/
+- https://www.freecodecamp.org/news/the-c-beginners-handbook/#arrays
+- https://bcebakhtiyarpur.org/wp-content/uploads/2020/03/file_5e747d69ab58e.pdf (I think websites is better.)
