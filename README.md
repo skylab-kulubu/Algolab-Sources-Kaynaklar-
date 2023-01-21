@@ -2,7 +2,7 @@
 
 ## Books
 - https://cses.fi/book/book.pdf
--https://books.goalkicker.com/CBook/CNotesForProfessionals.pdf
+- https://books.goalkicker.com/CBook/CNotesForProfessionals.pdf
 
 ## Solving Problems
 
