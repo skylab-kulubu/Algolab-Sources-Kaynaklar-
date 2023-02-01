@@ -1,10 +1,24 @@
 # Sources - Kaynaklar
 
+## Algoithms Study Plan
+#### How to study algorithms videos
+- https://www.youtube.com/watch?v=s2mYsPWzLjg
+- 
+#### For Java
+- Course: https://www.coursera.org/learn/algorithms-part1
+- Book: [Website Book](https://algs4.cs.princeton.edu/21elementary/)  <=>  [PDF Book](https://bank.engzenon.com/tmp/5e7f6ee5-d4dc-4aa8-9b0a-42d3c0feb99b/6062caf3-c600-4fc2-b413-4ab8c0feb99b/Algorithms-4th-Edition.pdf)
+
+#### For C++
+- Courses: https://learning.edx.org/course/course-v1:IBM+IBMICECPP03+3T2021/home
+
 ## Books
 - https://cses.fi/book/book.pdf
 - https://books.goalkicker.com/CBook/CNotesForProfessionals.pdf
 
 ## Solving Problems
+
+#### Interviwe questions
+- https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 
 - https://github.com/ombharatiya/FAANG-Coding-Interview-Questions/blob/main/TopLeetCodeProblems.md
 - https://github.com/ombharatiya/FAANG-Coding-Interview-Questions#faang-must-do-problems  ,
