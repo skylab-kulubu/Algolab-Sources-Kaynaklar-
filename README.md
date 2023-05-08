@@ -1,4 +1,11 @@
 # Sources - Kaynaklar
+## Compatitive Problems Websites
+- leetcode.com/
+- codeforces.com/
+- www.codewars.com/
+- www.codechef.com/
+- algoleague.com/
+- hackerrank.com/
 
 ## Algoithms Study Plan
 #### How to study algorithms videos
@@ -17,7 +24,7 @@
 
 ## Solving Problems
 
-#### Interviwe questions
+#### Interview questions
 - https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 
 - https://github.com/ombharatiya/FAANG-Coding-Interview-Questions/blob/main/TopLeetCodeProblems.md
