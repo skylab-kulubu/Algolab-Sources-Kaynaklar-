@@ -1,11 +1,11 @@
 # Sources - Kaynaklar
 ## Compatitive Problems Websites
-- leetcode.com/
-- codeforces.com/
+- www.leetcode.com/
+- www.codeforces.com/
 - www.codewars.com/
 - www.codechef.com/
-- algoleague.com/
-- hackerrank.com/
+- www.algoleague.com/
+- www.hackerrank.com/
 
 ## Algoithms Study Plan
 #### How to study algorithms videos
